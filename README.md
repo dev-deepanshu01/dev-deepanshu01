@@ -9,7 +9,7 @@
 - 📫 How to reach me: **dipanshugujjar40@gmail.com**
 - ⚡ Fun fact: I love remixing games, anime, & memes into cool edits 🎬
 - ## 📄 Certificates  
-Check out my verified certificates [here](./certificate/readme.md) 📜
+Check out my verified certificates [here](./certificate/README.md) 📜
 
 
 ---
