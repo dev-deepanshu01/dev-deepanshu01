@@ -7,7 +7,8 @@
 - 🧠 Exploring **DSA, Firebase, XML, RoomDB, and more**
 - 📱 Working on Android projects like **BMI Calculator** & **Notes App**
 - 📫 How to reach me: **dipanshugujjar40@gmail.com**
-- ⚡ Fun fact: I love remixing games, anime, & memes into cool edits 🎬
+- ⚡ Fun fact:- I love solving real-world problems through code.
+- I remixing games, anime, & memes into cool edits 🎬
 - ## 📄 Certificates  
 Check out my verified certificates [here](./certificates/README.md) 📜
 
