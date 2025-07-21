@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Deepanshu</h1>
 <h3 align="center">Aspiring Android Developer | Java Enthusiast | Tech Explorer 🚀</h3>
+🚀 I'm a passionate Android Developer, building sleek and powerful apps with Java.  
+💡 I also explore AI tools like ChatGPT and enjoy working with Python & SQL.  
+🌱 Currently sharpening my skills in full-stack Android development.  
+📈 I love to learn, create, and grow every day!
+
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -8,6 +13,7 @@
 - 📱 Working on Android projects like **BMI Calculator** & **Notes App**
 - 📫 How to reach me: **dipanshugujjar40@gmail.com**
 - ⚡ Fun fact:- I love solving real-world problems through code.
+- 💭 Favorite Quote: “Code never lies, comments sometimes do.”
   
 - ## 📄 Certificates  
 Check out my verified certificates [here](./certificates/README.md) 📜
