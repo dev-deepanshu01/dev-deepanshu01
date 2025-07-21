@@ -13,7 +13,6 @@
 - 📱 Working on Android projects like **BMI Calculator** & **Notes App**
 - 📫 How to reach me: **dipanshugujjar40@gmail.com**
 - ⚡ Fun fact:- I love solving real-world problems through code.
-- 💭 Favorite Quote: “Code never lies, comments sometimes do.”
   
 - ## 📄 Certificates  
 Check out my verified certificates [here](./certificates/README.md) 📜
