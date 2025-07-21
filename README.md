@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepanshu</h1>
 <h3 align="center">Aspiring Android Developer | Java Enthusiast | Tech Explorer 🚀</h3>
 🚀 I'm a passionate Android Developer, building sleek and powerful apps with Java.  
-💡 I also explore AI tools like ChatGPT and enjoy working with Python & SQL.  
+💡 I also explore AI tools like ChatGPT 
 🌱 Currently sharpening my skills in full-stack Android development.  
 📈 I love to learn, create, and grow every day!
 
