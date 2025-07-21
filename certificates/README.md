@@ -60,7 +60,9 @@ Here are some of the certifications I've earned in my learning journey 🚀
 
 ---
 
-🔗 Also on my [LinkedIn](https://www.linkedin.com/in/dev-deepanshu01)  
+🔗 Also on my [LinkedIn](www.linkedin.com/in/dev-deepanshu
+
+)  
 📬 Reach me: [dipanshugujjar40@gmail.com](mailto:dipanshugujjar40@gmail.com)  
-📬 Reach me: [dipanshugujjar40@gmail.com](mailto:dipanshugujjar40@gmail.com)
+
 
