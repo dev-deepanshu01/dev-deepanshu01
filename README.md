@@ -8,6 +8,9 @@
 - 📱 Working on Android projects like **BMI Calculator** & **Notes App**
 - 📫 How to reach me: **dipanshugujjar40@gmail.com**
 - ⚡ Fun fact: I love remixing games, anime, & memes into cool edits 🎬
+- ## 📄 Certificates  
+Check out my verified certificates [here](./certificates/README.md) 📜
+
 
 
 
