@@ -4,23 +4,13 @@ Here are some of the certificates I have earned during my learning journey.
 
 ---
 
-### ✅ App Development
-![App Development](app-devlopment.jpg)
-
----
-
-### 🤖 ChatGPT & AI
-![ChatGPT](chatgpt.jpg)
+### ✅ App Deploymentt
+![App Deployment](app-devlopment.jpg)
 
 ---
 
 ### ☕ Java - Mastering Fundamentals
 ![Java Fundamentals](java-masteringFundamentals.jpg)
-
----
-
-### 📊 Power BI
-![Power BI](powerBI.jpg)
 
 ---
 
