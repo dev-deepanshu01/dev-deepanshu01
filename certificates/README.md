@@ -14,6 +14,11 @@ Here are some of the certificates I have earned during my learning journey.
 
 ---
 
+### 🎨 UI/UX Design
+![UI/UX Design](ui-uxDesign.jpg)
+
+---
+
 ### ☕ Java - Mastering Fundamentals
 ![Java Fundamentals](java-masteringFundamentals.jpg)
 
@@ -21,11 +26,6 @@ Here are some of the certificates I have earned during my learning journey.
 
 ### 🐍 Python with AI
 ![Python AI](pythonWith-ai.jpg)
-
----
-
-### 🎨 UI/UX Design
-![UI/UX Design](ui-uxDesign.jpg)
 
 ---
 
