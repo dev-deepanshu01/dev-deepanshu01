@@ -4,7 +4,12 @@ Here are some of the certificates I have earned during my learning journey.
 
 ---
 
-### ✅ App Deploymentt
+### ✅ Android Application Development (meta)
+![Android Developmrnt]_(android_development.jpg)
+
+---
+
+### ✅ App Deployment
 ![App Deployment](app-devlopment.jpg)
 
 ---
@@ -16,11 +21,6 @@ Here are some of the certificates I have earned during my learning journey.
 
 ### 🐍 Python with AI
 ![Python AI](pythonWith-ai.jpg)
-
----
-
-### 🛢️ SQL & NoSQL
-![SQL NoSQL](sql-noSql.jpg)
 
 ---
 
