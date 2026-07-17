@@ -5,7 +5,7 @@ Here are some of the certificates I have earned during my learning journey.
 ---
 
 ### ✅ Android Application Development (meta)
-![Android Developmrnt]_(android_development.jpg)
+![App Development](android_development.jpg)
 
 ---
 
