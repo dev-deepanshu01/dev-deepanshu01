@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Deepanshu</h1>
-<h3 align="center">Aspiring Android Developer | Java Enthusiast | Tech Explorer 🚀</h3>
-🚀 I'm a passionate Android Developer, building sleek and powerful apps with Java.  
-💡 I also explore AI tools like ChatGPT 
-🌱 Currently sharpening my skills in full-stack Android development.  
+<h1 align="center">Hi 👋, I'm Deepanshu Nagar</h1>
+<h3 align="center"> Android Developer | Kotlin • Java • Jetpack compose | Tech Explorer 🚀</h3>
+🚀 Passionate about building modern applications using kotlin, java and jetpack compose. 
+💡 I also explore AI tools
+🌱 Currently improving my Android development skills and exploring modern app architecture. 
 📈 I love to learn, create, and grow every day!
 
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 I’m currently learning **Android Development (Java/XML)**
-- 🧠 Exploring **DSA, Firebase, XML, RoomDB, and more**
-- 📱 Working on Android projects like **BMI Calculator** & **Notes App**
+- 🌱 I’m currently learning **Advance kotlin, Firebase, REST APIs, MVVM Architecture**
+- 🧠 Exploring **Firebase, Jetpack compose, RoomDB, and more**
+- 📱 Working on Android projects like **Tic-Tac-Toe Game** & **My Doctor App** & **BMI Calculator App**
 - 📫 How to reach me: **dipanshugujjar40@gmail.com**
-- ⚡ Fun fact:- I love solving real-world problems through code.
   
 - ## 📄 Certificates  
 Check out my verified certificates [here](./certificates/README.md) 📜
